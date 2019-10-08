@@ -1,0 +1,10 @@
+centos7 yum安装python3 和pip3
+1.yum源是支持python3.6，命令yum install -y  python36
+
+2.安装环境工具即可
+
+yum install -y python36-setuptools
+
+yum install -y python36-pip
+
+参考：https://yq.aliyun.com/articles/640213
